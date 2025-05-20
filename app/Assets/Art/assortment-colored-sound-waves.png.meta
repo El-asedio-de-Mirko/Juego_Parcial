@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 675ad04dd545c6440bae5343f809bc6d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: assortment-colored-sound-waves_0
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1339
+        width: 738
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27fa9d9c5eef9f40b0f1d656ffe093d
+      internalID: -1053878554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assortment-colored-sound-waves_4
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1421
+        width: 884
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa12707786fce34aa410382442a19f5
+      internalID: -1163773939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assortment-colored-sound-waves_7
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 754
+        width: 794
+        height: 613
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d03d032703f2c48a706c331d908c31
+      internalID: -1948811376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assortment-colored-sound-waves_10
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 837
+        width: 802
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c78ee093f6fec04585b520938413941
+      internalID: -998470587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assortment-colored-sound-waves_89
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 217
+        width: 1513
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de34e4213f1cf704d84e4a660967cc69
+      internalID: -861556061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assortment-colored-sound-waves_194
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 91
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568a69c56dba2e94384f2360f847d1ac
+      internalID: -750797849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      assortment-colored-sound-waves_0: -1053878554
+      assortment-colored-sound-waves_1: -656055991
+      assortment-colored-sound-waves_10: -998470587
+      assortment-colored-sound-waves_100: -757737533
+      assortment-colored-sound-waves_101: 1346065398
+      assortment-colored-sound-waves_102: 1762143243
+      assortment-colored-sound-waves_103: -886439655
+      assortment-colored-sound-waves_104: 1735507437
+      assortment-colored-sound-waves_105: -729248188
+      assortment-colored-sound-waves_106: -1959907145
+      assortment-colored-sound-waves_107: -1892047305
+      assortment-colored-sound-waves_108: -989544806
+      assortment-colored-sound-waves_109: 1482193504
+      assortment-colored-sound-waves_11: 260103363
+      assortment-colored-sound-waves_110: 839604932
+      assortment-colored-sound-waves_111: -1612569934
+      assortment-colored-sound-waves_112: -1210632736
+      assortment-colored-sound-waves_113: -440497367
+      assortment-colored-sound-waves_114: 1301191454
+      assortment-colored-sound-waves_115: 823095136
+      assortment-colored-sound-waves_116: -2012711511
+      assortment-colored-sound-waves_117: 1598874484
+      assortment-colored-sound-waves_118: -1517374339
+      assortment-colored-sound-waves_119: -654283196
+      assortment-colored-sound-waves_12: 991370460
+      assortment-colored-sound-waves_120: -290424464
+      assortment-colored-sound-waves_121: -628050313
+      assortment-colored-sound-waves_122: -1869641774
+      assortment-colored-sound-waves_123: 2013101937
+      assortment-colored-sound-waves_124: -619260236
+      assortment-colored-sound-waves_125: 1177333313
+      assortment-colored-sound-waves_126: -1806423147
+      assortment-colored-sound-waves_127: -1817777242
+      assortment-colored-sound-waves_128: -1923324118
+      assortment-colored-sound-waves_129: -580141640
+      assortment-colored-sound-waves_13: -352545447
+      assortment-colored-sound-waves_130: 398110488
+      assortment-colored-sound-waves_131: -808229256
+      assortment-colored-sound-waves_132: 1632019131
+      assortment-colored-sound-waves_133: -1063636408
+      assortment-colored-sound-waves_134: -1413642196
+      assortment-colored-sound-waves_135: -316210059
+      assortment-colored-sound-waves_136: 476144279
+      assortment-colored-sound-waves_137: -156486737
+      assortment-colored-sound-waves_138: 1318544123
+      assortment-colored-sound-waves_139: -959038101
+      assortment-colored-sound-waves_14: -965891444
+      assortment-colored-sound-waves_140: 490896020
+      assortment-colored-sound-waves_141: 1900051093
+      assortment-colored-sound-waves_142: -1825334607
+      assortment-colored-sound-waves_143: -720835496
+      assortment-colored-sound-waves_144: 1064772734
+      assortment-colored-sound-waves_145: 1219369934
+      assortment-colored-sound-waves_146: 1274765289
+      assortment-colored-sound-waves_147: 1691809514
+      assortment-colored-sound-waves_148: 550623760
+      assortment-colored-sound-waves_149: 525676656
+      assortment-colored-sound-waves_15: 1201007624
+      assortment-colored-sound-waves_150: -238484710
+      assortment-colored-sound-waves_151: -667865579
+      assortment-colored-sound-waves_152: -246042991
+      assortment-colored-sound-waves_153: -1294903691
+      assortment-colored-sound-waves_154: -1716313047
+      assortment-colored-sound-waves_155: 1347789854
+      assortment-colored-sound-waves_156: -383806082
+      assortment-colored-sound-waves_157: -1590057224
+      assortment-colored-sound-waves_158: 1543048525
+      assortment-colored-sound-waves_159: -1416350559
+      assortment-colored-sound-waves_16: -749100244
+      assortment-colored-sound-waves_160: -1256069927
+      assortment-colored-sound-waves_161: 1924257612
+      assortment-colored-sound-waves_162: -791402360
+      assortment-colored-sound-waves_163: 2070461248
+      assortment-colored-sound-waves_164: 2060446549
+      assortment-colored-sound-waves_165: -358926622
+      assortment-colored-sound-waves_166: 1382534502
+      assortment-colored-sound-waves_167: -1028995027
+      assortment-colored-sound-waves_168: 1012699382
+      assortment-colored-sound-waves_169: 1342558036
+      assortment-colored-sound-waves_17: 634835766
+      assortment-colored-sound-waves_170: -1369620599
+      assortment-colored-sound-waves_171: 767895371
+      assortment-colored-sound-waves_172: -968981045
+      assortment-colored-sound-waves_173: -1791277432
+      assortment-colored-sound-waves_174: 847733917
+      assortment-colored-sound-waves_175: 299041921
+      assortment-colored-sound-waves_176: 1780905869
+      assortment-colored-sound-waves_177: 57047778
+      assortment-colored-sound-waves_178: 2034458394
+      assortment-colored-sound-waves_179: 1235816401
+      assortment-colored-sound-waves_18: 84706217
+      assortment-colored-sound-waves_180: -1809638047
+      assortment-colored-sound-waves_181: 292679250
+      assortment-colored-sound-waves_182: -1974598114
+      assortment-colored-sound-waves_183: -112754730
+      assortment-colored-sound-waves_184: 2078083062
+      assortment-colored-sound-waves_185: 1509434090
+      assortment-colored-sound-waves_186: 228201414
+      assortment-colored-sound-waves_187: -139421608
+      assortment-colored-sound-waves_188: -1592604573
+      assortment-colored-sound-waves_189: -537260211
+      assortment-colored-sound-waves_19: -1844020463
+      assortment-colored-sound-waves_190: 228034996
+      assortment-colored-sound-waves_191: 275862957
+      assortment-colored-sound-waves_192: 846517152
+      assortment-colored-sound-waves_193: 1249671738
+      assortment-colored-sound-waves_194: -750797849
+      assortment-colored-sound-waves_195: -2146271695
+      assortment-colored-sound-waves_196: 1645039078
+      assortment-colored-sound-waves_197: 1070432442
+      assortment-colored-sound-waves_198: 549547545
+      assortment-colored-sound-waves_199: -1744124613
+      assortment-colored-sound-waves_2: 1666949491
+      assortment-colored-sound-waves_20: -1205155038
+      assortment-colored-sound-waves_200: 1668363694
+      assortment-colored-sound-waves_201: 2031107543
+      assortment-colored-sound-waves_202: -425880641
+      assortment-colored-sound-waves_203: -253886034
+      assortment-colored-sound-waves_204: -574223207
+      assortment-colored-sound-waves_205: -838501228
+      assortment-colored-sound-waves_206: -272345179
+      assortment-colored-sound-waves_207: -822053753
+      assortment-colored-sound-waves_208: 2013967524
+      assortment-colored-sound-waves_209: -1525071314
+      assortment-colored-sound-waves_21: 331794410
+      assortment-colored-sound-waves_210: -1200335473
+      assortment-colored-sound-waves_22: -1265500381
+      assortment-colored-sound-waves_23: 221576400
+      assortment-colored-sound-waves_24: -264219878
+      assortment-colored-sound-waves_25: 818893530
+      assortment-colored-sound-waves_26: -6257527
+      assortment-colored-sound-waves_27: -623590927
+      assortment-colored-sound-waves_28: 2072359541
+      assortment-colored-sound-waves_29: -1898923413
+      assortment-colored-sound-waves_3: -190464168
+      assortment-colored-sound-waves_30: 493707085
+      assortment-colored-sound-waves_31: 688569126
+      assortment-colored-sound-waves_32: -1931304564
+      assortment-colored-sound-waves_33: -1767376781
+      assortment-colored-sound-waves_34: 1073319042
+      assortment-colored-sound-waves_35: 622734723
+      assortment-colored-sound-waves_36: -375581736
+      assortment-colored-sound-waves_37: -838160848
+      assortment-colored-sound-waves_38: 1426079779
+      assortment-colored-sound-waves_39: -1584244490
+      assortment-colored-sound-waves_4: -1163773939
+      assortment-colored-sound-waves_40: -1573201966
+      assortment-colored-sound-waves_41: 593516138
+      assortment-colored-sound-waves_42: -732386524
+      assortment-colored-sound-waves_43: -1677663090
+      assortment-colored-sound-waves_44: -669475818
+      assortment-colored-sound-waves_45: 305889983
+      assortment-colored-sound-waves_46: -892079417
+      assortment-colored-sound-waves_47: -1180140708
+      assortment-colored-sound-waves_48: -1093616348
+      assortment-colored-sound-waves_49: 367528686
+      assortment-colored-sound-waves_5: -261526841
+      assortment-colored-sound-waves_50: -1868824944
+      assortment-colored-sound-waves_51: 348413825
+      assortment-colored-sound-waves_52: 1403736201
+      assortment-colored-sound-waves_53: -1051533458
+      assortment-colored-sound-waves_54: -942967355
+      assortment-colored-sound-waves_55: -575979404
+      assortment-colored-sound-waves_56: -105425937
+      assortment-colored-sound-waves_57: -1997895740
+      assortment-colored-sound-waves_58: 8497480
+      assortment-colored-sound-waves_59: -1217627282
+      assortment-colored-sound-waves_6: 1529845954
+      assortment-colored-sound-waves_60: 163765611
+      assortment-colored-sound-waves_61: 876748148
+      assortment-colored-sound-waves_62: 331752342
+      assortment-colored-sound-waves_63: 746558832
+      assortment-colored-sound-waves_64: -1341165308
+      assortment-colored-sound-waves_65: 1924450336
+      assortment-colored-sound-waves_66: -312550367
+      assortment-colored-sound-waves_67: 578137708
+      assortment-colored-sound-waves_68: 1419858657
+      assortment-colored-sound-waves_69: -3669938
+      assortment-colored-sound-waves_7: -1948811376
+      assortment-colored-sound-waves_70: -731507523
+      assortment-colored-sound-waves_71: -977510721
+      assortment-colored-sound-waves_72: -220571724
+      assortment-colored-sound-waves_73: 473899952
+      assortment-colored-sound-waves_74: -269807084
+      assortment-colored-sound-waves_75: 1077874759
+      assortment-colored-sound-waves_76: -1808165581
+      assortment-colored-sound-waves_77: -1450606549
+      assortment-colored-sound-waves_78: 1360113103
+      assortment-colored-sound-waves_79: -1740278516
+      assortment-colored-sound-waves_8: 49466739
+      assortment-colored-sound-waves_80: 684246151
+      assortment-colored-sound-waves_81: -166853595
+      assortment-colored-sound-waves_82: -695241166
+      assortment-colored-sound-waves_83: 591127303
+      assortment-colored-sound-waves_84: 1568619704
+      assortment-colored-sound-waves_85: -521520000
+      assortment-colored-sound-waves_86: 2142407393
+      assortment-colored-sound-waves_87: -602791608
+      assortment-colored-sound-waves_88: -2125042739
+      assortment-colored-sound-waves_89: -861556061
+      assortment-colored-sound-waves_9: -1602755317
+      assortment-colored-sound-waves_90: 1247240084
+      assortment-colored-sound-waves_91: 828922726
+      assortment-colored-sound-waves_92: 88600522
+      assortment-colored-sound-waves_93: -493593923
+      assortment-colored-sound-waves_94: 1669337147
+      assortment-colored-sound-waves_95: -1224764748
+      assortment-colored-sound-waves_96: 1772566533
+      assortment-colored-sound-waves_97: -1587133505
+      assortment-colored-sound-waves_98: 1967360050
+      assortment-colored-sound-waves_99: 629548555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
