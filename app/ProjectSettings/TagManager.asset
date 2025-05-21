@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: fondo
+    uniqueID: 924956819
+    locked: 0
+  - name: mocho
+    uniqueID: 1511092689
+    locked: 0
