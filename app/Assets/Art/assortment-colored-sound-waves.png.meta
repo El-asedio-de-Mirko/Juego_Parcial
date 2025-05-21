@@ -126,10 +126,10 @@ TextureImporter:
       name: assortment-colored-sound-waves_0
       rect:
         serializedVersion: 2
-        x: 196
-        y: 1339
-        width: 738
-        height: 476
+        x: 197
+        y: 1580
+        width: 751
+        height: 238
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
